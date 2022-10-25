@@ -28,7 +28,7 @@ Pour lancer les notebooks julia :
    notebook()
    ```
 
-*Remarque :* le noyau (kernel) doit être julia1.2. Si le noyau spécifié est python, vous devez changer le noyau.
+*Remarque :* le noyau (kernel) doit être julia1.7. Si le noyau spécifié est python, vous devez changer le noyau.
 
 
 
